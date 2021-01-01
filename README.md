@@ -1,6 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on Node, React and AWS 
-👯 I’m looking to collaborate on Shopify app development
+
+- 🔭 I’m currently working on Node, React and AWS 
+- 👯 I’m looking to collaborate on Shopify app development
 
 <!--
 **athahersirnaik/athahersirnaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
